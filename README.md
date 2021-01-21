@@ -1,2 +1,16 @@
-# E-commerse_Flutter_UI
-My first E-Commerse App UI. Recently I started to learn Flutter and this is the first time that i build an App UI by myself. I hope to continue to improve and create more apps
+# okay
+
+A new Flutter project.
+
+## Getting Started
+
+This project is a starting point for a Flutter application.
+
+A few resources to get you started if this is your first Flutter project:
+
+- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
+- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+
+For help getting started with Flutter, view our
+[online documentation](https://flutter.dev/docs), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.
